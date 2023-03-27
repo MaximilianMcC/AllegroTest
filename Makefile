@@ -1,0 +1,1 @@
+g++ -o mygame src/main.cpp -lallegro -lallegro_image
